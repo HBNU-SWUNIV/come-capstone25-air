@@ -29,6 +29,8 @@ Game Engine: Unity 기반, AR Foundation 및 ARCore/ARKit 지원
 
 Performance Optimization: 저사양 기기에서도 안정적인 FPS 유지 (60fps 목표)
 
+Surround Sound : 서라운드 기능을 추가해 현실감 극대화
+
 ## Case Study
   - ### Description
 플레이어는 현실 공간(예: 집, 공원, 거리)에 나타나는 가상의 몬스터를 스마트폰을 통해 탐지하고, 직접 사격하여 처치
@@ -42,7 +44,7 @@ Performance Optimization: 저사양 기기에서도 안정적인 FPS 유지 (60f
   
 ## Conclusion
   - ### OOO
-  - ### OOO
+
   
 ## Project Outcome
-- ### 20XX 년 OO학술대회 
+- ###
